@@ -11,3 +11,5 @@
 ```
 git clone https://github.com/rezanoohi/konkoor_computer_1403.git
 ```
+
+![تعداد سوالات دروس](تعداد%20سوالات%20دروس.jpg)
